@@ -9,6 +9,7 @@ python = "^3.10"
 pandas = "^1.4.3"
 jupyter = "^1.0.0"
 notebook = "^6.4.12"
+matplotlib = "^3.5.2"
 
 [tool.poetry.dev-dependencies]
 ipykernel = "^6.15.1"
